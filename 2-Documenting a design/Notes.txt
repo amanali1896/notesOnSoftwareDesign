@@ -1,1 +1,7 @@
+1--> Domain Modeling has following steps:
 
+        • Identify concepts (classes)
+        • Their properties (attributes/fields)
+        • Their behaviors (operations/methods)
+        • And the relationships between them
+   
