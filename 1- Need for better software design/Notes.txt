@@ -1,1 +1,8 @@
-
+1--> There are multiple ways to solve a particular problem. 
+2--> Programming is the easy part. The harder parts are specification, design and testing.
+3--> From the article "No Silver Bullet" by Fred brooks, The following are the difficulties of software design.
+           
+            Complexity: Too complex for one person to understand. Sometimes multiple people as a team have to work to solve the issue.
+            Conformity: Interfaces with different users, systems, etc. Interconnection between different components.
+            Changeability: Software is “infinitely malleable”. Software can be modified and changed easily.
+            Invisibility: Difficult to diagram or visualize. Sometimes realising the software becomes difficult
