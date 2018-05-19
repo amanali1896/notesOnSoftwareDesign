@@ -39,3 +39,9 @@ Good Software:
                        - Add or improve functionality
                        - Understand how an algorithm (solution) is implemented
                        - Improve other aspects of software quality (efficiency, security, etc.)
+     (ii) Changeability: Ease with which a programmer can change the code
+                  It involves:
+                      - Fix defects
+                      - Add or improve functionality
+                      - Incorporate new code
+                      - Improve other aspects of software quality(efficiency, security, etc.)
