@@ -72,7 +72,7 @@ Domain Modeling:
                  Application "consists of" Letter and Statement
                  Student "uses" Application
                  Student is "associated with" Program
-                 
+----------------------------------------------------------------------------------------------------------------------------------                 
 Unified Modeling Language:
 
 1) The Unified Modeling Language (UML) is a general-purpose, developmental, modeling language in the field of software engineering, that     
