@@ -33,4 +33,9 @@ Good Software:
              identify and fix defects
              modify the code to improve external quality
 4) Aspects of Internal quality:
-
+     (i) Analyzability: Ease with which a programmer can read, understand, and reason about the code
+                  It involves:
+                       - Identify and fix defects
+                       - Add or improve functionality
+                       - Understand how an algorithm (solution) is implemented
+                       - Improve other aspects of software quality (efficiency, security, etc.)
