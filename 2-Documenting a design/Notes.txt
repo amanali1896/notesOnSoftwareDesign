@@ -72,6 +72,21 @@ Domain Modeling:
                  Application "consists of" Letter and Statement
                  Student "uses" Application
                  Student is "associated with" Program
+                 
+Unified Modeling Language:
+
+1) The Unified Modeling Language (UML) is a general-purpose, developmental, modeling language in the field of software engineering, that     
+   is intended to provide a standard way to visualize the design of a system.
+   
+2) is-a relationship can be generalisation or realisation
+        In Java:
+                • Generalization = “extends” a (concrete) class
+                • Realization = “implements” an interface
+   has-a relationship can be aggregation or composition
+        In Java, both are implemented by having one class as a field/attribute of another
+        
+   uses relationship is known as dependency
+
 
 
 
