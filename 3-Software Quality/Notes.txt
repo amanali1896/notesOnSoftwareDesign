@@ -45,3 +45,38 @@ Good Software:
                       - Add or improve functionality
                       - Incorporate new code
                       - Improve other aspects of software quality(efficiency, security, etc.)
+                      
+     (iii) Stability: - Extent to which the code is tolerant of changes to other parts of the code
+                      - Changes in one part of code don’t require changes in other parts
+                      - Reduce time/effort required to change code, since you won’t also need to change other code
+                      
+     (iv) Testability: Ease with which a the code can be tested
+                  It involves:
+                     - Create test cases
+                     - Identify and fix defects
+                     - Increase confidence that software is working correctly
+  
+  --------------------------------------------------------------------------------------------------------------------------------
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
