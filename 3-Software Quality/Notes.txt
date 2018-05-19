@@ -3,3 +3,23 @@ Good Software:
 1) There are two factors regards to software quality.
       External factors: These factors deals with the human experience.
       Internal factors:These factors are related to the programmer.
+2) External Quality:
+
+             Functionality: satisfies stated or implied needs
+             
+             Reliability: maintains a level of performance in a given
+            environment for a given period of time
+            
+             Usability: ease with which user can understand, learn,
+            and operate the software
+            
+             Efficiency: limits the amount/number of resources
+            used
+            
+             Portability: ease with which software can be
+            transferred from one environment to another
+            
+             Security: level of confidentiality and integrity provided
+            by the software
+            
+3)
