@@ -7,4 +7,26 @@ Domain Modeling:
         • Their properties (attributes/fields)
         • Their behaviors (operations/methods)
         • And the relationships between them
-   
+        
+        
+2--> Grammatical Parsing:In this method we assign roles based on parts of speech
+
+        • Noun: class or attribute
+        • Adjective: attribute or subclass
+        • Verb: operation
+        
+        For example:
+        “Graduate and undergraduate students may apply to the program.The application consists of a recommendation
+         letter and personal statement.”
+         
+                Nouns:
+                        • Students
+                        • Program
+                        • Application
+                        • Letter
+                        • Statement
+               Adjectives:
+                        • Graduate
+                        • Undergraduate
+               
+
