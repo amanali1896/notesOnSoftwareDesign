@@ -8,18 +8,29 @@ Good Software:
              Functionality: satisfies stated or implied needs
              
              Reliability: maintains a level of performance in a given
-            environment for a given period of time
+             environment for a given period of time
             
              Usability: ease with which user can understand, learn,
-            and operate the software
+             and operate the software
             
              Efficiency: limits the amount/number of resources
-            used
+             used
             
              Portability: ease with which software can be
-            transferred from one environment to another
+             transferred from one environment to another
             
              Security: level of confidentiality and integrity provided
-            by the software
+             by the software
             
-3)
+3) Internal Quality meaning:
+
+       Ease with which a programmer can:
+             understand the code
+             add new functionality
+             modify existing functionality
+             reuse code
+             incorporate new code
+             identify and fix defects
+             modify the code to improve external quality
+4) Aspects of Internal quality:
+
