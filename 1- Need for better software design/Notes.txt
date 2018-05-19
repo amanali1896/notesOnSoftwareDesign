@@ -6,3 +6,12 @@
             Conformity: Interfaces with different users, systems, etc. Interconnection between different components.
             Changeability: Software is “infinitely malleable”. Software can be modified and changed easily.
             Invisibility: Difficult to diagram or visualize. Sometimes realising the software becomes difficult
+    
+4--> A good code must be faster,smaller, simpler, cleaner, and produced with less effort.
+5--> A process to convert requirements to reality.
+6--> Steps to design software
+           1) Modeling: identify concepts and their relationships
+           2) Choose the right architecture
+           3) Create/Use appropriate data structures
+           4) Use design patterns when appropriate**
+           5) Refactor (change the design) as necessary
