@@ -28,5 +28,44 @@ Domain Modeling:
                Adjectives:
                         • Graduate
                         • Undergraduate
-               
+               Verbs:
+                        • Apply
+                        • Consists
+                        
+          A noun should be a class if:
+                • it has multiple attributes and/or operations
+                • all attributes/operations are common to all
+                instances of the class
+                • Otherwise it should likely be an "attribute" of
+                another class
+                
+          An adjective should represent a subclass of another class if:
+                • different adjectives would imply different or
+                additional operations or behavior
+                • different adjectives would imply different
+                attributes
+                • Otherwise, an adjective should be an
+                attribute of a class
+                
+         Verbs: in which class do they belong?    
+                 Certain verbs are more indicative of relationships between classes than they are
+                 of operations: contains, has, is, uses, consists
+                 
+                 modelling the above example:
+                 Student may apply to the program
+                        • Subject: student
+                        • Direct object: program
+                         “apply” (verb) operation should go in Student class
+                         
+         Our Design for the above example:
+         
+                 Class: Student
+                        • Attributes/Subclasses: Graduate; Undergraduate
+                        • Operations: Apply
+                 Class: Letter
+                 Class: Statement
+                 Class: Application
+                 Class: Program
+
+
 
