@@ -57,7 +57,7 @@ Domain Modeling:
                         • Direct object: program
                          “apply” (verb) operation should go in Student class
                          
-         Our Design for the above example:
+         Design for the above example:
          
                  Class: Student
                         • Attributes/Subclasses: Graduate; Undergraduate
@@ -66,6 +66,12 @@ Domain Modeling:
                  Class: Statement
                  Class: Application
                  Class: Program
+         Relationship:                 
+                 Graduate Student "is a" Student
+                 Undergraduate Student "is a" Student
+                 Application "consists of" Letter and Statement
+                 Student "uses" Application
+                 Student is "associated with" Program
 
 
 
